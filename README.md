@@ -14,7 +14,7 @@
 - **Large Language Model (LLM)**: Powered by OpenAI's API to provide interactive and intelligent responses.  
 - **Web-Based Interface**: Built to ensure ease of use and accessibility.  
 - **Python**: Core programming language for model development and integration.  
-- **Flask/Streamlit**: Frameworks for developing the web interface (based on implementation).  
+- **Streamlit**: Frameworks for developing the web interface (based on implementation).  
 
 ## System Workflow  
 1. **Image Upload**: Users upload an image of the plant's leaf via the web interface.  
