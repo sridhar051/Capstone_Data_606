@@ -27,9 +27,14 @@ The CNN model achieved an accuracy of **96.43%** after retraining, ensuring reli
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/354ceac3-9bca-4240-b871-9ae264e44c9c">
 
+
+
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/6ca0dc30-c3a1-42d7-bd12-9ab232f1afc1">
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/79e317a2-51bf-495c-b324-43ce45238cba">
+
+![image](https://github.com/user-attachments/assets/86e76a86-29e4-49f7-b0ac-4e0a193f05b6)
+
 
 ## Future Enhancements  
 - Support for additional plant species and diseases.  
