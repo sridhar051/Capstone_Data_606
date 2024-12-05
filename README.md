@@ -1,5 +1,4 @@
 # Plant Guard: AI Disease Detection & Real-Time Plant Advice
-# PlantGuard: AI Disease Detection & Real-Time Plant Advice  
 
 **PlantGuard** is a smart system designed to identify plant diseases and provide real-time assistance to users. By combining **Convolutional Neural Networks (CNN)** for disease detection and **Large Language Models (LLM)** for personalized advice, PlantGuard empowers gardeners, farmers, and plant enthusiasts with actionable insights to maintain plant health effectively.  
 
