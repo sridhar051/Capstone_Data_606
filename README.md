@@ -44,5 +44,3 @@ The CNN model achieved an accuracy of **96.43%** after retraining, ensuring reli
 ## Contributors  
 - [Sridhar Kandi]  
 - [Abishek Challa]   
-
-Feel free to customize the content to fit your project specifics!
